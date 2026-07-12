@@ -1,0 +1,166 @@
+<svg viewBox="0 0 1536 1024" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace">
+
+<defs>
+  <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#8fb4e8"/>
+    <stop offset="100%" stop-color="#9d8bf0"/>
+  </linearGradient>
+  <linearGradient id="niteshGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#7c8ff2"/>
+    <stop offset="100%" stop-color="#b083f0"/>
+  </linearGradient>
+</defs>
+
+<rect width="1536" height="1024" fill="#0a0e16"/>
+<rect x="25" y="20" width="478" height="920" rx="16" fill="#0a0f17" stroke="#28323e" stroke-width="1.5"/>
+<g font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="7.9px" fill="#7f97b3" letter-spacing="0.3">
+<text x="49" y="53.9" xml:space="preserve">                                                                                                    </text>
+<text x="49" y="63.8" xml:space="preserve">                                                                                                    </text>
+<text x="49" y="73.6" xml:space="preserve">                                                                                                    </text>
+<text x="49" y="83.5" xml:space="preserve">                                                                                                    </text>
+<text x="49" y="93.3" xml:space="preserve">                                                                                                    </text>
+<text x="49" y="103.2" xml:space="preserve">                                                                                                 </text>
+<text x="49" y="113" xml:space="preserve">                                     --:----:::---=++=                                           </text>
+<text x="49" y="122.9" xml:space="preserve">                                  =-=--==+=--=++++==-+++                                         </text>
+<text x="49" y="132.7" xml:space="preserve">                                +-:-=+===++====-===+++===+                                       </text>
+<text x="49" y="142.5" xml:space="preserve">                              ==----++==-===+++=++++++++++++                                     </text>
+<text x="49" y="152.4" xml:space="preserve">                            +=+***+==+==+******+**+**+**+++++                                    </text>
+<text x="49" y="162.2" xml:space="preserve">                           #***##**#############***######*++*+                                   </text>
+<text x="49" y="172.1" xml:space="preserve">                           #####################*####*#####*++                                   </text>
+<text x="49" y="181.9" xml:space="preserve">                           *########################****####++#                                  </text>
+<text x="49" y="191.8" xml:space="preserve">                           ###########*+++**#*****#*++*####***+                                  </text>
+<text x="49" y="201.7" xml:space="preserve">                           *####*=--:..       .:--=-=---=+*##**                                  </text>
+<text x="49" y="211.5" xml:space="preserve">                           ****=.                        .=*#*+                                  </text>
+<text x="49" y="221.3" xml:space="preserve">                           +***=.                        .=##*                                   </text>
+<text x="49" y="231.2" xml:space="preserve">                           +**#-                          .***                                   </text>
+<text x="49" y="241.1" xml:space="preserve">                            *#*.   ... ..       ....:::.   .**                                   </text>
+<text x="49" y="250.9" xml:space="preserve">                            =#-.=-. .-+*+=-::::=++*=:  .::  +.                                   </text>
+<text x="49" y="260.8" xml:space="preserve">                          ++ =..:-+++##+*+:   .=*++#*=-=:.  : =-                                 </text>
+<text x="49" y="270.6" xml:space="preserve">                          .. -   :-::=:::.     ... .:.:.    ..                                   </text>
+<text x="49" y="280.4" xml:space="preserve">                            .-      ...                                                          </text>
+<text x="49" y="290.3" xml:space="preserve">                                                                                                 </text>
+<text x="49" y="300.1" xml:space="preserve">                              .                                                                  </text>
+<text x="49" y="310" xml:space="preserve">                              ::.                                                                 </text>
+<text x="49" y="319.8" xml:space="preserve">                              :.         ..   :*+                                                </text>
+<text x="49" y="329.7" xml:space="preserve">                              -:        .-:--:..                                                 </text>
+<text x="49" y="339.5" xml:space="preserve">                               :..       ..        :.                                            </text>
+<text x="49" y="349.4" xml:space="preserve">                               -::.  -=--:::::::--+#-.     .                                     </text>
+<text x="49" y="359.2" xml:space="preserve">                                -::....:-. ...   ..    ....                                      </text>
+<text x="49" y="369.1" xml:space="preserve">                                 :::.    .:     .     ....                                       </text>
+<text x="49" y="378.9" xml:space="preserve">                                  ::..    .-===:       ... :                                     </text>
+<text x="49" y="388.8" xml:space="preserve">                                   ::.                :-.   ++                                   </text>
+<text x="49" y="398.6" xml:space="preserve">                                 : .:-::            .-:.    ===                                  </text>
+<text x="49" y="408.5" xml:space="preserve">                                *:  .:-==--::----::=-:.     *+++==                               </text>
+<text x="49" y="418.3" xml:space="preserve">                            ++++*.    .:-=++*+***+==:      :*+++*+=+++                           </text>
+<text x="49" y="428.2" xml:space="preserve">                        ==+++++**.      .:-==++++-         ***+*******++=+                       </text>
+<text x="49" y="438" xml:space="preserve">                       ==+*+++++***:        .:---.          +**************+=--                    </text>
+<text x="49" y="447.9" xml:space="preserve">               =-===+***+++++****:                        *****************++==--                </text>
+<text x="49" y="457.7" xml:space="preserve">          =---==+++***++++++*****:      =#**+=           -************#******++==------          </text>
+<text x="49" y="467.6" xml:space="preserve">      =======++++******#*********.    .==+**+++*+=       =*********##***********++=======--      </text>
+<text x="49" y="477.4" xml:space="preserve">     ++*++++++*******************.    .  +- -+#*:       .**************************++++++++==    </text>
+<text x="49" y="487.3" xml:space="preserve">     ***************************+.        *=--=         =*********************************++++   </text>
+<text x="49" y="497.1" xml:space="preserve">     ***************************+.        =::+          **********************************++++   </text>
+<text x="49" y="507" xml:space="preserve">     +**#*************************:        .-**:        +*********##***************************   </text>
+<text x="49" y="516.9" xml:space="preserve">   #***#**********************#**:       :+++*+        ***************#**************#*****+=-   </text>
+<text x="49" y="526.7" xml:space="preserve">   +#**#*************************-      :+*++--=      +*********************************####*+=  </text>
+<text x="49" y="536.5" xml:space="preserve">  *+****#*********************#**-      =#*- -*+      +*****************************#**##***++== </text>
+<text x="49" y="546.4" xml:space="preserve">  ******#*********************#**=     +**..=+++     -*****************************##*######**+++</text>
+<text x="49" y="556.2" xml:space="preserve"> *****#*##********************#**+    :*+-+++++:     +************#***************#########****++</text>
+<text x="49" y="566.1" xml:space="preserve"> ***#***##********************##**    =-:**++- ::   :****************************#%######*******+</text>
+<text x="49" y="575.9" xml:space="preserve"> ****####%#***********************.   .=***+..=+:   ****************************#%%##########****</text>
+</g>
+<text x="264.0" y="629.9" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="33" font-weight="800" letter-spacing="0.5"><tspan fill="url(#titleGrad)">CYBER </tspan><tspan fill="url(#niteshGrad)">NITESH</tspan></text>
+<text x="264.0" y="659.9" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#5c7699">CyberNiteshHub &#8226; he/him</text>
+<line x1="53" y1="681.9" x2="475" y2="681.9" stroke="#1c2530" stroke-width="1.5"/>
+<g transform="translate(60.8,703.1)" stroke="#4aa3e0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M4.25 0 L8.5 2.3800000000000003 L8.5 4.675000000000001 Q8.5 8.075 4.25 8.5 Q0 8.075 0 4.675000000000001 L0 2.3800000000000003 Z"/></g>
+<text x="83" y="711.9" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#c3cedb">Cyber Security Enthusiast</text>
+<g transform="translate(60.8,735.1)" stroke="#4aa3e0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="8.5" height="8.5" rx="1.4"/><path d="M1.53 2.72 L3.57 4.25 L1.53 5.78"/><line x1="4.25" y1="6.12" x2="6.97" y2="6.12"/></g>
+<text x="83" y="743.9" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#c3cedb">Ethical Hacker</text>
+<g transform="translate(60.8,767.1)" stroke="#4aa3e0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="4.25" cy="4.25" r="4.25"/><ellipse cx="4.25" cy="4.25" rx="1.87" ry="4.25"/><line x1="0" y1="4.25" x2="8.5" y2="4.25"/></g>
+<text x="83" y="775.9" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#c3cedb">CEH | Networking</text>
+<g transform="translate(60.8,799.1)" stroke="#4aa3e0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 3.23 L4.25 0.8500000000000001 L8.5 3.23 L4.25 5.61 Z"/><path d="M1.87 4.08 L1.87 6.63 Q4.25 8.075 6.63 6.63 L6.63 4.08"/></g>
+<text x="83" y="807.9" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#c3cedb">BCA Student</text>
+<g transform="translate(60.8,831.1)" stroke="#4aa3e0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2.89 1.1900000000000002 L0.51 4.25 L2.89 7.31"/><path d="M5.61 1.1900000000000002 L7.989999999999999 4.25 L5.61 7.31"/></g>
+<text x="83" y="839.9" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#c3cedb">Trainee at Craw Security</text>
+<g transform="translate(60.8,863.1)" stroke="#4aa3e0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="1.53" width="8.5" height="5.44" rx="1.2"/><line x1="0" y1="4.25" x2="8.5" y2="4.25" stroke-dasharray="1.6,1.6"/></g>
+<text x="83" y="871.9" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#c3cedb">Digital Forensics</text>
+<g transform="translate(60.8,895.1)" stroke="#4aa3e0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="4.25" cy="4.25" r="4.25"/><path d="M2.3800000000000003 4.42 L3.74 5.78 L6.29 2.72"/></g>
+<text x="83" y="903.9" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#c3cedb">Vulnerability Assessment</text>
+<g transform="translate(60.8,927.1)" stroke="#4aa3e0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="1.02" y="3.825" width="6.46" height="4.25" rx="1.4"/><path d="M2.3800000000000003 3.825 L2.3800000000000003 2.3800000000000003 Q4.25 0.17 6.12 2.3800000000000003 L6.12 3.825"/></g>
+<text x="83" y="935.9" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#c3cedb">Penetration Tester</text>
+<rect x="526" y="20" width="985" height="920" rx="16" fill="#0a0f17" stroke="#28323e" stroke-width="1.5"/>
+<path d="M526 36 Q526 20 542 20 L1495 20 Q1511 20 1511 36 L1511 98 L526 98 Z" fill="#0c1220"/>
+<circle cx="560" cy="59.0" r="9" fill="#f84e4a"/>
+<circle cx="590" cy="59.0" r="9" fill="#f9bd4e"/>
+<circle cx="620" cy="59.0" r="9" fill="#34be59"/>
+<text x="1018.5" y="64.0" text-anchor="middle" font-size="16" fill="#3fa7ea">nitesh@cyberniteshhub:~</text>
+<text x="1471" y="65.0" text-anchor="middle" font-size="18" fill="#5fdb8a">&gt;_</text>
+<line x1="526" y1="98" x2="1511" y2="98" stroke="#28323e" stroke-width="1.5"/>
+<g transform="translate(559.5,128.5)" stroke="#3fa7ea" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="1" width="17" height="11.78" rx="1.6"/><line x1="9.5" y1="12.920000000000002" x2="9.5" y2="16.34"/><line x1="5.7" y1="17.1" x2="13.299999999999999" y2="17.1"/></g>
+<text x="586" y="144" font-size="19" font-weight="700" fill="#3fa7ea" letter-spacing="0.5">SYSTEM</text>
+<text x="586" y="178" font-size="15.5" fill="#f5a94b">- OS</text>
+<text x="865" y="178" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="178" font-size="15.5" fill="#dbe4ee">Windows 11, Kali Linux, Ubuntu</text>
+<text x="586" y="208.5" font-size="15.5" fill="#f5a94b">- Uptime</text>
+<text x="865" y="208.5" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="208.5" font-size="15.5" fill="#dbe4ee">21 years, 6 months, 3 days</text>
+<text x="586" y="239.0" font-size="15.5" fill="#f5a94b">- Host</text>
+<text x="865" y="239.0" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="239.0" font-size="15.5" fill="#dbe4ee">BLJS College, Tosham | CRAW Academy, Delhi</text>
+<text x="586" y="269.5" font-size="15.5" fill="#f5a94b">- Kernel</text>
+<text x="865" y="269.5" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="269.5" font-size="15.5" fill="#dbe4ee">Cyber Security Researcher | Student</text>
+<text x="586" y="300.0" font-size="15.5" fill="#f5a94b">- IDE</text>
+<text x="865" y="300.0" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="300.0" font-size="15.5" fill="#dbe4ee">VS Code, PyCharm</text>
+<line x1="560" y1="336.5" x2="1477" y2="336.5" stroke="#1c2530" stroke-width="1"/>
+<g transform="translate(559.5,335.0)" stroke="#3fa7ea" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M6.84 3.8000000000000003 L1.52 9.5 L6.84 15.200000000000001"/><path d="M12.16 3.8000000000000003 L17.48 9.5 L12.16 15.200000000000001"/></g>
+<text x="586" y="350.5" font-size="19" font-weight="700" fill="#3fa7ea" letter-spacing="0.5">LANGUAGES</text>
+<text x="586" y="384.5" font-size="15.5" fill="#f5a94b">- Languages.Programming</text>
+<text x="865" y="384.5" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="384.5" font-size="15.5" fill="#dbe4ee">Python, JavaScript, Bash, HTML/CSS</text>
+<text x="586" y="415.0" font-size="15.5" fill="#f5a94b">- Languages.Computer</text>
+<text x="865" y="415.0" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="415.0" font-size="15.5" fill="#dbe4ee">YAML, JSON, SQL, Markdown</text>
+<text x="586" y="445.5" font-size="15.5" fill="#f5a94b">- Languages.Real</text>
+<text x="865" y="445.5" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="445.5" font-size="15.5" fill="#dbe4ee">Hindi, English</text>
+<line x1="560" y1="482.0" x2="1477" y2="482.0" stroke="#1c2530" stroke-width="1"/>
+<g transform="translate(559.5,480.5)" stroke="#3fa7ea" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="6.460000000000001" cy="5.7" r="3.42"/><path d="M1.9000000000000001 17.48 Q1.9000000000000001 11.4 6.460000000000001 11.4 Q11.02 11.4 11.02 17.48"/><circle cx="13.68" cy="7.22" r="2.66"/><path d="M9.88 17.48 Q9.88 12.920000000000002 13.68 12.920000000000002 Q17.48 12.920000000000002 17.48 17.48"/></g>
+<text x="586" y="496.0" font-size="19" font-weight="700" fill="#3fa7ea" letter-spacing="0.5">HOBBIES</text>
+<text x="586" y="530.0" font-size="15.5" fill="#f5a94b">- Hobbies.Software</text>
+<text x="865" y="530.0" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="530.0" font-size="15.5" fill="#dbe4ee">Ethical Hacking, CTF Challenges</text>
+<text x="586" y="560.5" font-size="15.5" fill="#f5a94b">- Hobbies.Hardware</text>
+<text x="865" y="560.5" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="560.5" font-size="15.5" fill="#dbe4ee">Web App Security, Network Pentesting</text>
+<line x1="560" y1="597.0" x2="1477" y2="597.0" stroke="#1c2530" stroke-width="1"/>
+<g transform="translate(559.5,595.5)" stroke="#3fa7ea" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="9.5" cy="6.08" r="4.18"/><path d="M2.66 18.05 Q2.66 11.78 9.5 11.78 Q16.34 11.78 16.34 18.05"/></g>
+<text x="586" y="611.0" font-size="19" font-weight="700" fill="#3fa7ea" letter-spacing="0.5">CONTACT</text>
+<text x="586" y="645.0" font-size="15.5" fill="#f5a94b">- Email.Personal</text>
+<text x="865" y="645.0" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="645.0" font-size="15.5" fill="#dbe4ee">niteshkumar3133845@gmail.com</text>
+<text x="586" y="675.5" font-size="15.5" fill="#f5a94b">- GitHub</text>
+<text x="865" y="675.5" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="675.5" font-size="15.5" fill="#dbe4ee">CyberNiteshHub</text>
+<text x="586" y="706.0" font-size="15.5" fill="#f5a94b">- LinkedIn</text>
+<text x="865" y="706.0" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="706.0" font-size="15.5" fill="#dbe4ee">nitesh-verma-4ba443363</text>
+<text x="586" y="767.0" font-size="15.5" fill="#f5a94b">- Instagram</text>
+<text x="865" y="767.0" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="767.0" font-size="15.5" fill="#dbe4ee">cybernitesh</text>
+<line x1="560" y1="803.5" x2="1477" y2="803.5" stroke="#1c2530" stroke-width="1"/>
+<g transform="translate(559.5,802.0)" stroke="#3fa7ea" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="3.42" y1="17.1" x2="3.42" y2="1.9000000000000001"/><line x1="3.42" y1="17.1" x2="17.48" y2="17.1"/><rect x="5.7" y="10.450000000000001" width="2.66" height="6.6499999999999995"/><rect x="9.88" y="6.6499999999999995" width="2.66" height="10.450000000000001"/><rect x="14.06" y="8.55" width="2.66" height="8.55"/></g>
+<text x="586" y="817.5" font-size="19" font-weight="700" fill="#3fa7ea" letter-spacing="0.5">GITHUB STATS</text>
+<text x="586" y="851.5" font-size="15.5" fill="#f5a94b">- Repos:</text>
+<text x="865" y="851.5" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="851.5" font-size="15.5"><tspan fill="#dbe4ee">95 (</tspan><tspan fill="#f5a94b">Contributed: 133</tspan><tspan fill="#dbe4ee">) | </tspan><tspan fill="#f5a94b">Stars:</tspan><tspan fill="#dbe4ee"> 342</tspan></text>
+<text x="586" y="882.0" font-size="15.5" fill="#f5a94b">- Commits:</text>
+<text x="865" y="882.0" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="882.0" font-size="15.5"><tspan fill="#dbe4ee">2,116  | </tspan><tspan fill="#f5a94b">Followers:</tspan><tspan fill="#dbe4ee"> 196</tspan></text>
+<text x="586" y="912.5" font-size="15.5" fill="#f5a94b">- Lines of Code</text>
+<text x="865" y="912.5" font-size="15.5" fill="#5c7699">:</text>
+<text x="883" y="912.5" font-size="15.5"><tspan fill="#dbe4ee">446,276 ( </tspan><tspan fill="#5fdb8a">523,178++</tspan><tspan fill="#dbe4ee"> , </tspan><tspan fill="#e0645a">76,902--</tspan><tspan fill="#dbe4ee"> )</tspan></text>
+<rect x="25" y="958" width="1486" height="46" rx="12" fill="#123a2f" stroke="#1d5a49" stroke-width="1.3"/>
+<text x="768" y="987.0" text-anchor="middle" font-size="18" fill="#5fe0a8">&gt; Secure today, safe tomorrow.</text>
+</svg>
